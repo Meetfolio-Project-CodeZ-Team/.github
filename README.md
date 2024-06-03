@@ -49,16 +49,6 @@
 
 ## 1. ⚙️ 개발 환경
 
-### Backend Stack
-
-* Java 17
-* Framework: Springboot 3.2.4, Spring Security 6.3, Spring Data JPA, Swagger 2.2, JWT 0.11.5
-* Database: MySQL, Redis
-* Cloud : Google Cloud Platform
-* CI/CD : Github Actions, Docker, Docker-Compose
-* Git: Git, Github, Git Submodule
-
-### Frontend Stack
 <table>
     <thead>
         <tr>
@@ -83,9 +73,9 @@
                 <p>백엔드</p>
             </td>
             <td>
-                <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white">
               <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=springboot&logoColor=white">
               <img src="https://img.shields.io/badge/Spring_JPA-%236DB33F?logo=spring&logoColor=white">
+              <img src="https://img.shields.io/badge/Docker-2496ED?&logo=Docker&logoColor=white">
             </td>
         </tr>
         <tr>
@@ -98,8 +88,19 @@
             </td>
         </tr>
     </tbody>
-
 </table>
+
+### Backend Stack
+
+* Java 17
+* Framework: Springboot 3.2.4, Spring Security 6.3, Spring Data JPA, Swagger 2.2, JWT 0.11.5
+* Database: MySQL, Redis
+* Cloud : Google Cloud Platform
+* CI/CD : Github Actions, Docker, Docker-Compose
+* Git: Git, Github, Git Submodule
+
+### Frontend Stack
+
 * Next.js, Tailwind, Recoil
 
 ### AI Stack
