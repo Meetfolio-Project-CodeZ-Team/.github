@@ -4,7 +4,7 @@
 
 > WEB URL : http://www.meetfolio.kro.kr:60005/
 
-> 작성자 : 김현겸 (kylo-dev)
+> 작성자 : 김현겸, 최민규
 
 <br/>
 <div>
