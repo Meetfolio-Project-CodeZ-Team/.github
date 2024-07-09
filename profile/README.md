@@ -333,6 +333,14 @@ Git 분기 전략을 통해 여러 버전의 코드를 동시에 관리하고, �
     <img alt="image" src="https://github.com/Meetfolio-Project-CodeZ-Team/.github/assets/99270060/b10e45ed-7fed-4b0f-9c5e-0a8f928f8cd6" align="center" width="32%">  
 </p>
 
+<p align="center"> 
+    <h3>관리자</h3>
+    <img alt="image" src="https://github.com/Meetfolio-Project-CodeZ-Team/.github/assets/99270060/65c1f940-93cb-4c12-a9cf-ef5892063594" align="center" width="32%">    
+    <img alt="image" src="https://github.com/Meetfolio-Project-CodeZ-Team/.github/assets/99270060/1b54e657-4e2e-4a14-864d-1684313d06a1" align="center" width="32%"> 
+    <img alt="image" src="https://github.com/Meetfolio-Project-CodeZ-Team/.github/assets/99270060/3f128e00-261c-481c-99ae-dde735db8e1d" align="center" width="32%"> 
+</p>
+
+
 <details>
   <summary><h2> 8. 프로젝트 후기</h2></summary>
   <div markdown="1">
